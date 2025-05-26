@@ -1,3 +1,4 @@
+
 <h1 align="center">👋 Hi, I'm Priyabrata Dutta</h1>
 
 <p align="center">
@@ -12,7 +13,7 @@
 With over **10 years of experience** in full-stack development, I’m passionate about solving complex problems, building scalable systems, and leading impactful engineering teams.
 
 🎯 **Core Focus**:  
-`API Development` • `System Design` • `Microservices` • `Cloud Infrastructure` • `AI Tools` • `Automation`
+`API Development` • `System Design` • `Microservices` • `Cloud Infrastructure` • `AI Tools` • `Automation` • `Collaboration` • `Problem Solving`
 
 💡 "Every problem has a solution — dig deep, resolve fast, and keep growing."
 
@@ -26,6 +27,9 @@ With over **10 years of experience** in full-stack development, I’m passionate
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white)
+![LESS](https://img.shields.io/badge/LESS-1D365D?style=flat&logo=less&logoColor=white)
 
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
@@ -41,7 +45,7 @@ With over **10 years of experience** in full-stack development, I’m passionate
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
-### ☁️ Cloud & DevOps
+### ☁️ Cloud, DevOps & Automation
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![EC2](https://img.shields.io/badge/EC2-orange?style=flat&logo=amazon-ec2&logoColor=white)
 ![S3](https://img.shields.io/badge/S3-orange?style=flat&logo=amazon-s3&logoColor=white)
@@ -52,6 +56,7 @@ With over **10 years of experience** in full-stack development, I’m passionate
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+📝 YAML Configuration & CI/CD pipelines
 
 ---
 
@@ -69,7 +74,19 @@ With over **10 years of experience** in full-stack development, I’m passionate
 - 🧩 **Strategic Thinking** — Technical vision aligned with business needs  
 - 🤝 **Team Handling** — Leadership, mentorship, stand-ups, retrospectives  
 - 🛠️ **Issue Resolution** — Deep-diving complex problems, fast troubleshooting  
-- 📣 **Client Communication** — Solution-focused technical discussions
+- 📣 **Client Communication** — Solution-focused technical discussions  
+- 📅 Sprint Planning, Code Reviews, Agile Best Practices
+
+---
+
+## ⚙️ Development & Collaboration Practices
+
+- Write YAML-based configuration files for environments, workflows, and CI/CD.  
+- Use Python and Bash scripting for automation, deployment, and system tasks.  
+- Collaborate with product managers, UI/UX designers, and cross-functional teams.  
+- Participate in code reviews, system design sessions, and agile ceremonies.  
+- Troubleshoot production issues and enhance performance and scalability.  
+- Follow best practices in testing, CI/CD, and DevOps.
 
 ---
 
@@ -105,9 +122,11 @@ With over **10 years of experience** in full-stack development, I’m passionate
 
 > Deprioritized but occasionally used
 
-- 🧩 WordPress Speed & Security Optimization  
-- 📈 Google Ads, Facebook Pixel, A/B Testing  
-- 🧪 Landing Page & Campaign Integration  
+- 📈 WordPress Speed & Security Optimization 
+- 📈 WordPress Plugin and  Theme Creation 
+- 📈 Worked on Shopify, Joomla, Bigcommerce etc CMS Packages
+- 📈 Google Ads (Advanced Search, Display, Video, Shopping, Gmail, App, Discovery, Video Action, Smart Campaigns, etc), Facebook Pixel, A/B Testing  
+- 📈 Landing Page & Campaign Integration  
 - 🔧 cPanel, WHM, Basic SEO
 
 ---
