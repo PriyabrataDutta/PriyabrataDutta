@@ -124,7 +124,7 @@ With over **10 years of experience** in full-stack development, I’m passionate
 
 - 📈 WordPress Speed & Security Optimization 
 - 📈 WordPress Plugin and  Theme Creation 
-- 📈 Worked on Shopify, Joomla, Bigcommerce etc CMS Packages
+- 📈 Worked on Shopify, Joomla,Drupal, Bigcommerce etc CMS Packages
 - 📈 Google Ads (Advanced Search, Display, Video, Shopping, Gmail, App, Discovery, Video Action, Smart Campaigns, etc), Facebook Pixel, A/B Testing  
 - 📈 Landing Page & Campaign Integration  
 - 🔧 cPanel, WHM, Basic SEO
