@@ -55,9 +55,9 @@ const HeroIntro = ({ line1Ref, line2Ref, line3Ref }: HeroIntroProps) => {
         <span className="text-primary">$</span>
         <span>cat role.txt</span>
       </div>
-      <p className="text-xs sm:text-sm md:text-base lg:text-lg xl:text-xl font-mono text-foreground min-h-[1.5em] whitespace-normal break-words sm:whitespace-nowrap sm:overflow-hidden sm:text-ellipsis max-w-full">
+      <p className="text-xs sm:text-sm md:text-base lg:text-lg xl:text-xl font-mono text-foreground min-h-[2.6em] sm:min-h-[1.5em] leading-relaxed max-w-[290px] sm:max-w-none mx-auto lg:mx-0">
         <span className="text-comment">// </span>
-        <span ref={line2Ref} className="inline" />
+        <span ref={line2Ref} />
       </p>
 
       {/* `$ cat bio.md` — third typewriter line */}
