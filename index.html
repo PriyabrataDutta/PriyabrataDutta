@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" href="/favicon.png" type="image/png" />
+
+    <!-- Preconnect to Google Fonts so the TLS handshake completes before CSS asks for fonts. -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <!-- Preload the two woff2 files the page actually uses (Inter regular + JetBrains Mono regular).
+         This breaks the CSS→font request chain that was costing ~1.3s on mobile (PageSpeed). -->
+    <link
+      rel="preload"
+      as="font"
+      type="font/woff2"
+      crossorigin
+      href="https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7W0Q5nw.woff2"
+    />
+    <link
+      rel="preload"
+      as="font"
+      type="font/woff2"
+      crossorigin
+      href="https://fonts.gstatic.com/s/jetbrainsmono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPxDcwgknk-4.woff2"
+    />
+    <!-- Load fonts CSS asynchronously so it doesn't block render. The `media="print"` + onload
+         swap trick is the standard pattern for non-blocking stylesheets. `display=swap` in the
+         URL ensures fallback text shows immediately while fonts load. -->
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600;700&display=swap"
+      media="print"
+      onload="this.media='all'"
+    />
+    <noscript>
+      <link
+        rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600;700&display=swap"
+      />
+    </noscript>
+
+    <title>Priyabrata Dutta | Full Stack Developer Portfolio</title>
+    <meta
+      name="description"
+      content="Full Stack Developer with 15+ years overall IT experience and 4.5+ years building scalable web apps with React, Node.js, AWS. Leading cross-functional teams."
+    />
+    <meta name="author" content="Priyabrata Dutta" />
+    <link rel="canonical" href="https://pdutta-resume-2026.vercel.app/" />
+
+    <!-- Google Analytics 4 — DISABLED until a real Measurement ID is set.
+         Loading the placeholder G-XXXXXXXXXX ID was costing ~134KB transfer
+         and ~150ms of main-thread time on mobile for ZERO tracking value.
+         To re-enable: replace G-XXXXXXXXXX below with your real GA4 ID and
+         uncomment the script tags. -->
+    <!--
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-XXXXXXXXXX', {
+        anonymize_ip: true,
+        send_page_view: true
+      });
+    </script>
+    -->
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://pdutta-resume-2026.vercel.app/" />
+    <meta property="og:title" content="Priyabrata Dutta | Full Stack Developer Portfolio" />
+    <meta
+      property="og:description"
+      content="Full Stack Developer with 15+ years overall IT experience and 4.5+ years building scalable web apps with React, Node.js, AWS. Leading cross-functional teams."
+    />
+    <meta property="og:image" content="/social-card.png" />
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="" />
+    <meta name="twitter:title" content="Priyabrata Dutta | Full Stack Developer Portfolio" />
+    <meta
+      name="twitter:description"
+      content="Full Stack Developer with 15+ years overall IT experience and 4.5+ years building scalable web apps with React, Node.js, AWS."
+    />
+    <meta name="twitter:image" content="/social-card.png" />
+
+    <!-- JSON-LD: Person schema for rich SEO -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Priyabrata Dutta",
+        "url": "https://pdutta-resume-2026.vercel.app/",
+        "image": "https://pdutta-resume-2026.vercel.app/social-card.png",
+        "jobTitle": "Sr. Full Stack Developer & Tech Lead",
+        "description": "Full Stack Developer with 15+ years overall IT experience and 4.5+ years building scalable web apps with React, Node.js, AWS.",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Bangalore",
+          "addressCountry": "IN"
+        },
+        "email": "mailto:priyabrata.dutta369@gmail.com",
+        "telephone": ["+91-9832465858", "+91-9239265858"],
+        "knowsAbout": [
+          "React",
+          "Next.js",
+          "Node.js",
+          "TypeScript",
+          "AWS",
+          "GSAP",
+          "Supabase",
+          "Tailwind CSS"
+        ],
+        "sameAs": [
+          "https://github.com/PriyabrataDutta",
+          "https://www.linkedin.com/in/priyabratadutta/"
+        ]
+      }
+    </script>
+  </head>
+
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

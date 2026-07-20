@@ -1,0 +1,167 @@
+# Priyabrata Dutta — Full Profile for AI Search
+
+> A complete, structured snapshot of Priyabrata Dutta's professional background. Optimized for ingestion by LLMs, AI search engines, and AI assistants.
+
+Last updated: 2026-04-19
+Canonical URL: #
+
+---
+
+## Identity
+
+- **Name**: Priyabrata Dutta
+- **Title**: Sr. Full Stack Developer & Tech Lead
+- **Location**: Bangalore, India
+- **Email**: priyabrata.dutta369@gmail.com
+- **Phone**: +91 98324 65858 (primary), +91 92392 65858
+- **Website**: https://pdutta-resume-2026.vercel.app
+- **Experience**: 15+ years overall IT, 4.5+ years specialized in modern scalable full-stack web development
+- **Focus areas**: React, Next.js, Node.js, Express, AWS, AI integration, team leadership
+
+---
+
+## Professional Summary
+
+Full Stack Developer with 15+ years of overall IT experience, including over 4.5+ years of specialized expertise in end-to-end scalable web application development using React, Node.js, Express, and AWS. Adept at designing scalable architectures, optimizing performance, and leading cross-functional teams to deliver efficient, secure, and user-focused digital solutions. Demonstrates strong problem-solving abilities, a passion for clean code, and a commitment to continuous learning in emerging technologies.
+
+---
+
+## Technical Skills
+
+**Frontend**: React.js, Next.js, TypeScript, JavaScript, Tailwind CSS, Responsive Design, Mobile-First Design, Server-Side Rendering (SSR), Client-Side Rendering (CSR), Server-Side Generation (SSG), User Experience (UX), Front-End Performance
+
+**Backend**: Node.js, Express, FastAPI (Beginner), REST APIs, JSON, API Integration, Authentication Implementation, Payment Integration, Error Handling, Loading States
+
+**Database**: MySQL, Prisma ORM, Database Schema Design
+
+**Cloud & DevOps**: AWS (EC2, S3, CloudFront, Lambda), Docker, Kubernetes, CI/CD Automation Pipelines, Git, GitHub, Code Review
+
+**AI / ML**: Generative AI, LLM (Beginner), AI Integration, AI Prompting
+
+**Practices**: Clean Code, Performance Optimization, A/B Testing, Monitoring, Reliability, Scalability, Full Stack Development
+
+---
+
+## Management & Leadership Skills
+
+Team Leadership, Complex Problem Solving, Client Communication, Project Management, Analytical Thinking, Adaptability, Collaboration, Time Management, Strategic Planning, Shipping / Delivery Focused, Accelerated Development Workflow, Technical & Non-Technical Communication, Impact-Driven Development, Systems Thinking, Business Acumen, Mentoring
+
+---
+
+## Experience
+
+### 1. Technical Lead / Full Stack Developer — Appadd India (P) Ltd
+- **Location**: Bangalore, India
+- **Duration**: March 2022 – Present
+- **Role**: Serving as both a Technical Lead and Full Stack Developer, leading end-to-end development of scalable web applications while mentoring a cross-functional team. Bridges technical execution with business objectives.
+
+**Full Stack Development**:
+- Implemented high-performance web applications using React.js, Next.js, Node.js, and Express
+- Built RESTful APIs and integrated them with dynamic front-end interfaces
+- Executed AWS-based deployments optimized for scalability, security, and uptime
+- Applied CI/CD pipelines for automated testing, integration, and deployment
+- Enhanced site speed via code optimization, lazy loading, and caching
+- Delivered custom solutions across 100+ projects with responsive, cross-browser compatibility
+
+**Team Leadership & Project Management**:
+- Led a team of developers — task assignment, code review, best-practice enforcement
+- Collaborated with stakeholders to define project scope, deliverables, and technical strategies
+- Conducted code reviews and mentoring sessions to improve team efficiency
+- Facilitated daily stand-ups and sprint planning in an Agile environment
+- Coordinated with marketing and design teams for backend ↔ UI/UX integration
+- Introduced process improvements that increased productivity and reduced bug rates
+- Provided technical consultation to clients, translating requirements into actionable plans
+
+### 2. Freelance Full Stack Developer — GraphicxIT
+- **Location**: Siliguri, India
+- **Duration**: 2020 – 2022
+- **Role**: Collaborated with global clients to design and develop dynamic, high-performing web applications end-to-end — from requirements and architecture through deployment and optimization.
+
+**Highlights**:
+- Delivered 100+ custom websites and web applications using React.js, PHP, and Laravel
+- Developed responsive, SEO-optimized interfaces using HTML5, CSS3, Tailwind, and JavaScript
+- Improved database design and integration using MySQL with security and scalability
+- Consulted clients on technology choices, digital strategy, and performance optimization
+- Integrated CMS platforms — WordPress, Joomla, Drupal, Moodle — for custom needs
+- Built automation workflows and marketing integrations using Zapier and custom APIs
+- Applied analytics and tracking tools for client reporting and data-driven improvements
+- Developed and deployed a full-featured Laravel-based web app for a private government body
+- Provided continuous support, maintenance, and security upgrades
+
+### 3. Technical Resource / Web Developer — Uttarbanga Sambad
+- **Location**: Siliguri, India
+- **Duration**: 2019 – 2020
+- **Role**: Responsible for developing, managing, and maintaining the digital infrastructure of one of North Bengal's leading news media organizations. Combined full-stack development, digital operations, and team coordination.
+
+**Highlights**:
+- Developed and maintained a dynamic news portal with scalable architecture
+- Led the digital transformation enabling real-time news publishing and media management
+- Supervised a team of 20 with technical guidance and workflow automation
+- Enforced web security to protect digital assets and ensure data integrity
+- Oversaw server management and optimization, improving site performance and load times
+- Managed Facebook Live programs — technical setup and live-stream integration
+- Planned and executed digital marketing strategies aligned with audience growth and monetization
+- Set up ad monetization and analytics platforms
+
+### 4. Technical Assistant / Web Developer — Surendra Institute of Engineering & Management (SIEM)
+- **Location**: Siliguri, India
+- **Duration**: 2010 – 2019
+- **Role**: Dual role — supporting academic programs as a Technical Assistant while leading digital and web development initiatives for the institution.
+
+**Highlights**:
+- Conducted programming lab sessions in C, C++, Java, VB.NET, and Data Structures & Algorithms
+- Created, developed, and maintained the college website and digital marketing campaigns
+- Led admission promotion strategy, increasing student enrolment via online and offline initiatives
+- Designed print and digital assets — brochures, banners, event creatives
+- Supervised and mentored final-year student projects in software design and implementation
+- Directed technical workshops and seminars on emerging web technologies
+- Implemented and expanded data management and security across labs and digital systems
+- Coordinated with admissions and marketing to align technical activities with institutional goals
+- Achieved a 10% increase in leads and a 6% rise in admissions via digital campaigns (2015–2016)
+
+---
+
+## Education
+
+### Master of Computer Applications (MCA)
+- **Institution**: Siliguri Institute of Technology, Siliguri
+- **Year**: 2022
+- **Focus**: Advanced software engineering, web technologies, cloud computing. Academic projects centered on full-stack development and system design.
+
+### Bachelor of Computer Applications (BCA)
+- **Institution**: Sikkim Manipal University
+- **Year**: 2011
+- **Focus**: Programming foundations, database management, software development principles.
+
+---
+
+## Certifications
+
+| Certification | Issuer | Year | Result |
+|---|---|---|---|
+| Cloud Computing (NPTEL) | IIT Kharagpur / NPTEL | 2022 | 69% |
+| Full Stack Development & Product Engineering | PESTO | 2024 | Completed |
+| AWS Cloud Developer Associate | AWS | In Progress | — |
+
+---
+
+## Quick Facts (for AI Q&A)
+
+- **Years of experience**: 15+ overall IT, 4.5+ specialized in scalable full-stack web dev
+- **Current employer**: Appadd India (P) Ltd, Bangalore (since March 2022)
+- **Current role**: Technical Lead / Full Stack Developer
+- **Primary stack**: React, Next.js, Node.js, Express, TypeScript, AWS, MySQL
+- **Specialties**: Scalable architecture, performance optimization, AI integration, team leadership
+- **Open to**: Tech Lead, Sr. Full Stack Engineer, Engineering Manager roles
+- **Highest qualification**: MCA (2022, Siliguri Institute of Technology)
+- **Projects shipped**: 100+ across freelance and current role
+- **Languages**: English (professional), Bengali (native), Hindi (fluent)
+
+---
+
+## Contact & Links
+
+- **Email**: priyabrata.dutta369@gmail.com
+- **Phone**: +91 98324 65858 (primary), +91 92392 65858
+- **Portfolio**: https://pdutta-resume-2026.vercel.app
+- **Resume PDF**: https://pdutta-resume-2026.vercel.app/resume.pdf

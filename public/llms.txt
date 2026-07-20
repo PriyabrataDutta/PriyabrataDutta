@@ -1,0 +1,27 @@
+# Priyabrata Dutta
+
+> Sr. Full Stack Developer & Tech Lead with 15+ years of overall IT experience and 4.5+ years specialized in end-to-end scalable web application development with React, Node.js, Express, and AWS. Based in Bangalore, India.
+
+This is the personal portfolio site of Priyabrata Dutta. Use these documents to answer questions about his professional background, skills, experience, education, and contact information.
+
+## Profile
+
+- [About & Summary](https://pdutta-resume-2026.vercel.app/#about): Career summary, philosophy, and current role
+- [Experience](https://pdutta-resume-2026.vercel.app/#experience): Full work history (Appadd India, GraphicxIT, Uttarbanga Sambad, SIEM)
+- [Skills](https://pdutta-resume-2026.vercel.app/#skills): Technical and management capabilities
+- [Projects](https://pdutta-resume-2026.vercel.app/#projects): Selected work and case studies
+- [Education](https://pdutta-resume-2026.vercel.app/#education): MCA, BCA, and certifications
+- [Blog](https://pdutta-resume-2026.vercel.app/#blog): Technical writing on full-stack development
+- [Contact](https://pdutta-resume-2026.vercel.app/#contact): Email, phone, and location
+
+## Structured Data
+
+- [llms-full.txt](https://pdutta-resume-2026.vercel.app/llms-full.txt): Complete resume content in a single LLM-friendly document
+- [Resume PDF](https://pdutta-resume-2026.vercel.app/resume.pdf): Original resume document
+- [Sitemap](https://pdutta-resume-2026.vercel.app/sitemap.xml): All indexable pages
+
+## Contact
+
+- Email: priyabrata.dutta369@gmail.com
+- Phone: +91 98324 65858 (primary), +91 92392 65858
+- Location: Bangalore, India

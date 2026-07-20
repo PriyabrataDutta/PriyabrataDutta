@@ -1,0 +1,221 @@
+/* Fonts are preconnected + loaded earlier in index.html for better LCP. */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* IDE / Code Editor — Charcoal & Ember palette
+   All colors MUST be HSL.
+*/
+
+@layer base {
+  :root {
+    /* Charcoal & Ember — dark IDE theme as default */
+    --background: 0 0% 7%;
+    --foreground: 30 15% 92%;
+
+    --card: 0 0% 10%;
+    --card-foreground: 30 15% 92%;
+
+    --popover: 0 0% 12%;
+    --popover-foreground: 30 15% 92%;
+
+    /* Ember orange */
+    --primary: 14 88% 55%;
+    --primary-foreground: 0 0% 7%;
+
+    --secondary: 0 0% 16%;
+    --secondary-foreground: 30 15% 92%;
+
+    --muted: 0 0% 14%;
+    --muted-foreground: 30 8% 60%;
+
+    --accent: 14 88% 55%;
+    --accent-foreground: 0 0% 7%;
+
+    --destructive: 0 72% 50%;
+    --destructive-foreground: 0 0% 98%;
+
+    --border: 0 0% 18%;
+    --input: 0 0% 14%;
+    --ring: 14 88% 55%;
+
+    --radius: 0.375rem;
+
+    /* Syntax highlighting tokens */
+    --syntax-keyword: 286 60% 67%;   /* purple — const, function */
+    --syntax-string: 95 38% 62%;     /* green — strings */
+    --syntax-number: 32 90% 60%;     /* orange — numbers */
+    --syntax-fn: 207 82% 66%;        /* blue — function names */
+    --syntax-comment: 0 0% 42%;      /* gray — comments */
+    --syntax-property: 0 65% 65%;    /* red — object keys */
+    --syntax-variable: 30 15% 92%;   /* off-white — variables */
+
+    /* Editor chrome */
+    --editor-bg: 0 0% 9%;
+    --editor-titlebar: 0 0% 13%;
+    --editor-line: 0 0% 16%;
+    --editor-gutter: 0 0% 38%;
+
+    --sidebar-background: 0 0% 9%;
+    --sidebar-foreground: 30 15% 92%;
+    --sidebar-primary: 14 88% 55%;
+    --sidebar-primary-foreground: 0 0% 7%;
+    --sidebar-accent: 0 0% 14%;
+    --sidebar-accent-foreground: 30 15% 92%;
+    --sidebar-border: 0 0% 18%;
+    --sidebar-ring: 14 88% 55%;
+  }
+
+  .dark {
+    /* Same — dark is default */
+    --background: 0 0% 7%;
+    --foreground: 30 15% 92%;
+    --card: 0 0% 10%;
+    --card-foreground: 30 15% 92%;
+    --popover: 0 0% 12%;
+    --popover-foreground: 30 15% 92%;
+    --primary: 14 88% 55%;
+    --primary-foreground: 0 0% 7%;
+    --secondary: 0 0% 16%;
+    --secondary-foreground: 30 15% 92%;
+    --muted: 0 0% 14%;
+    --muted-foreground: 30 8% 60%;
+    --accent: 14 88% 55%;
+    --accent-foreground: 0 0% 7%;
+    --border: 0 0% 18%;
+    --input: 0 0% 14%;
+    --ring: 14 88% 55%;
+  }
+
+  /* Accent Color Theme Overrides */
+  [data-theme="ember"] {
+    --primary: 14 88% 55%;
+    --ring: 14 88% 55%;
+    --accent: 14 88% 55%;
+    --sidebar-primary: 14 88% 55%;
+  }
+
+  [data-theme="matrix"] {
+    --primary: 142 76% 50%;
+    --ring: 142 76% 50%;
+    --accent: 142 76% 50%;
+    --sidebar-primary: 142 76% 50%;
+  }
+
+  [data-theme="cyberpunk"] {
+    --primary: 280 85% 65%;
+    --ring: 280 85% 65%;
+    --accent: 280 85% 65%;
+    --sidebar-primary: 280 85% 65%;
+  }
+
+  [data-theme="oceanic"] {
+    --primary: 199 89% 55%;
+    --ring: 199 89% 55%;
+    --accent: 199 89% 55%;
+    --sidebar-primary: 199 89% 55%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-background text-foreground font-sans antialiased;
+    background-image:
+      radial-gradient(hsl(0 0% 18%) 1px, transparent 1px);
+    background-size: 28px 28px;
+    background-position: 0 0;
+  }
+
+  ::selection {
+    background: hsl(var(--primary) / 0.35);
+    color: hsl(var(--foreground));
+  }
+
+  /* Custom scrollbar */
+  ::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+  }
+  ::-webkit-scrollbar-track {
+    background: hsl(var(--background));
+  }
+  ::-webkit-scrollbar-thumb {
+    background: hsl(var(--border));
+    border-radius: 4px;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: hsl(var(--primary) / 0.5);
+  }
+}
+
+@layer utilities {
+  .font-mono {
+    font-family: 'JetBrains Mono', 'Roboto Mono', ui-monospace, monospace;
+  }
+
+  .text-keyword { color: hsl(var(--syntax-keyword)); }
+  .text-string  { color: hsl(var(--syntax-string)); }
+  .text-number  { color: hsl(var(--syntax-number)); }
+  .text-fn      { color: hsl(var(--syntax-fn)); }
+  .text-comment { color: hsl(var(--syntax-comment)); }
+  .text-property{ color: hsl(var(--syntax-property)); }
+
+  .text-ember-gradient {
+    @apply bg-gradient-to-r from-primary via-orange-400 to-primary bg-clip-text text-transparent;
+  }
+
+  .section-padding {
+    @apply py-10 md:py-14 lg:py-16;
+  }
+
+  .grid-bg {
+    background-image:
+      linear-gradient(hsl(var(--border) / 0.5) 1px, transparent 1px),
+      linear-gradient(90deg, hsl(var(--border) / 0.5) 1px, transparent 1px);
+    background-size: 48px 48px;
+  }
+
+  .blink-caret::after {
+    content: '▋';
+    color: hsl(var(--primary));
+    animation: caret-blink 1s steps(2) infinite;
+    margin-left: 2px;
+  }
+
+  @keyframes caret-blink {
+    50% { opacity: 0; }
+  }
+
+  .editor-shadow {
+    box-shadow:
+      0 0 0 1px hsl(var(--border)),
+      0 20px 60px -20px hsl(0 0% 0% / 0.6),
+      0 0 80px -20px hsl(var(--primary) / 0.15);
+  }
+
+  /* Shiki override — themed to match our editor chrome */
+  .shiki-wrapper pre.shiki {
+    @apply p-4 overflow-x-auto;
+    background-color: hsl(var(--editor-bg)) !important;
+    margin: 0;
+  }
+  .shiki-wrapper pre.shiki code {
+    background: transparent !important;
+    font-family: 'JetBrains Mono', 'Roboto Mono', ui-monospace, monospace;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
