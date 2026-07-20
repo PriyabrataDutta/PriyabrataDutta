@@ -220,7 +220,7 @@ export const HeroTerminalConsole: React.FC<HeroTerminalConsoleProps> = ({ onTogg
       </div>
 
       {/* Terminal Content Body */}
-      <div className="p-4 space-y-3 min-h-[260px] max-h-[360px] overflow-y-auto text-xs leading-relaxed">
+      <div className="p-4 space-y-3 min-h-[260px] max-h-[360px] overflow-y-auto text-xs leading-relaxed break-words max-w-full">
         {logs.map((log, index) => (
           <div key={index} className="space-y-1">
             <div className="flex items-center gap-2 text-foreground">
