@@ -106,7 +106,6 @@ export const HeroTerminalConsole: React.FC<HeroTerminalConsoleProps> = ({ onTogg
             <p><span className="text-primary font-bold">Appadd India (P) Ltd</span> (Feb 2022 – Present) — Technical Lead / Full Stack Developer (100+ projects shipped, 50K+ MAU)</p>
             <p><span className="text-primary font-bold">GraphicxIT</span> (2021 – 2022) — Freelance Full Stack Developer (20+ global client apps delivered)</p>
             <p><span className="text-primary font-bold">Uttarbanga Sambad</span> (2019 – 2021) — Technical Resource / Web Developer (100K+ monthly readers portal)</p>
-            <p><span className="text-primary font-bold">SIEM</span> (2010 – 2019) — Technical Assistant / Web Developer (500+ students/yr, web lead)</p>
           </div>
         );
         break;

@@ -82,24 +82,6 @@ const experiences = [
       "Implemented responsive redesign that increased mobile traffic share from 45% → 72%",
     ],
   },
-  {
-    hash: "0f1a8b3",
-    branch: "init",
-    date: "2010 — 2019",
-    title: "Technical Assistant / Web Developer",
-    company: "Surendra Institute of Engineering & Management (SIEM)",
-    location: "Siliguri, India",
-    description:
-      "Dual role combining academic program delivery with institutional digital transformation — the foundation for my engineering leadership.",
-    achievements: [
-      "Conducted programming labs for 500+ students annually across 9 years in C, C++, Java, VB.NET, and DSA",
-      "Designed and executed data-driven admission promotion strategy — +10% inquiry leads and +6% confirmed admissions (2015-16), contributing ₹15L+ additional revenue",
-      "Built college website from scratch and managed digital marketing driving 5K+ monthly visitors — transformed website into #1 admission channel (40%+ of all new inquiries)",
-      "Supervised 50+ final-year student capstone projects across web, DB & software design",
-      "Implemented centralized data management and security infrastructure across 3 computer labs (60+ machines) — reduced system downtime by 70%",
-      "Organized and delivered 10+ technical workshops on emerging web technologies for students and faculty",
-    ],
-  },
 ];
 
 const Experience = () => {
