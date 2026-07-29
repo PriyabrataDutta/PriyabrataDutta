@@ -19,7 +19,7 @@
 
 ## 🧑‍💻 Professional Summary
 
-> Full Stack Developer with **10+ years in IT** and **5+ years of specialized experience** building end-to-end web applications with **React, Next.js, Node.js, Express, and AWS**. Currently a **Technical Lead** managing a cross-functional development team, with a track record of designing scalable architectures, improving application performance, and translating client business goals into secure, measurable technical outcomes. Actively expanding expertise in **Generative AI integration** and **Agentic AI workflows**.
+> Full Stack Developer with **6+ years of specialized experience** building end-to-end web applications with **React, Next.js, Node.js, Express, and AWS**. Currently a **Technical Lead** managing a cross-functional development team, with a track record of designing scalable architectures, improving application performance, and translating client business goals into secure, measurable technical outcomes. Actively expanding expertise in **Generative AI integration** and **Agentic AI workflows**.
 
 <table>
   <tr>
@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td>📅 <b>Experience</b></td>
-    <td>10+ Years IT | 5+ Years Full Stack Engineering</td>
+    <td> 6+ Years Full Stack Engineering</td>
   </tr>
   <tr>
     <td>🚀 <b>Projects Shipped</b></td>
