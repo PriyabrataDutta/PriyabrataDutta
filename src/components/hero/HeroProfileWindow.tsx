@@ -46,6 +46,22 @@ const HeroProfileWindow = () => {
           </div>
           {/* The actual photo with online status + version overlay */}
           <div className="relative aspect-square rounded overflow-hidden border border-border">
+            {/* AWS Certified Solutions Architect Badge Overlay */}
+            <div className="absolute top-3 right-3 z-20">
+              <a
+                href="https://www.credly.com/badges/7acfdc50-ba8c-4f60-afba-26c9694e8951/public_url"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="block hover:scale-105 active:scale-95 transition-transform duration-200"
+                title="Verify AWS Certified Solutions Architect – Associate Badge"
+              >
+                <img
+                  src="/aws-solutions-architect-badge.png"
+                  alt="AWS Certified Solutions Architect – Associate"
+                  className="w-16 h-16 md:w-20 md:h-20 drop-shadow-md select-none"
+                />
+              </a>
+            </div>
             <picture>
               <source
                 type="image/avif"
