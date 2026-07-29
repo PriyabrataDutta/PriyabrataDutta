@@ -68,7 +68,7 @@ export const HeroTerminalConsole: React.FC<HeroTerminalConsoleProps> = ({ onTogg
           <div className="space-y-1 text-xs text-muted-foreground">
             <p className="text-foreground font-semibold">Priyabrata Dutta</p>
             <p>Technical Lead | Full Stack Developer | Building AI-Powered Products</p>
-            <p className="text-primary">10+ Years IT Experience · 5+ Years Building Scalable Web Apps</p>
+            <p className="text-primary">6+ Years Building Scalable Web Apps</p>
             <p>Location: Bangalore, India</p>
           </div>
         );

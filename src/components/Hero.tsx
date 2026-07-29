@@ -62,7 +62,7 @@ const Hero = () => {
       tl.to({}, { duration: 0.3 });
       typeText(line2Ref.current, "Technical Lead | Full Stack Developer | Building AI-Powered Products", 1.6);
       tl.to({}, { duration: 0.3 });
-      typeText(line3Ref.current, "10+ Years IT Experience · 5+ Years Building Scalable Web Apps — shipping production applications with React, Next.js, Node & AWS, building GenAI & agentic workflows.", 2.0);
+      typeText(line3Ref.current, "6+ Years Building Scalable Web Apps — shipping production applications with React, Next.js, Node & AWS, building GenAI & agentic workflows.", 2.0);
 
       gsap.from(".hero-fade", {
         opacity: 0,

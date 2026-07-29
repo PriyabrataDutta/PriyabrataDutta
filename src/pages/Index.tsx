@@ -45,11 +45,11 @@ const Index = () => {
         <title>Priyabrata Dutta | Full Stack Developer Portfolio</title>
         <meta
           name="description"
-          content="Full Stack Developer with 10+ Years IT Experience · 5+ Years Building Scalable Web Apps with React, Node.js, AWS. Leading cross-functional teams. Based in Bangalore, India."
+          content="Full Stack Developer with 6+ Years Building Scalable Web Apps with React, Node.js, AWS. Leading cross-functional teams. Based in Bangalore, India."
         />
         <meta name="keywords" content="Full Stack Developer, React, Node.js, AWS, Web Developer, Bangalore, Portfolio" />
         <meta property="og:title" content="Priyabrata Dutta | Full Stack Developer" />
-        <meta property="og:description" content="10+ Years IT Experience · 5+ Years Building Scalable Web Apps with React, Node.js & AWS." />
+        <meta property="og:description" content="6+ Years Building Scalable Web Apps with React, Node.js & AWS." />
         <meta property="og:type" content="website" />
         <link rel="canonical" href="/" />
         {/* Preload the LCP hero image — AVIF, viewport-specific.

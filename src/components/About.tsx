@@ -139,8 +139,7 @@ const About = () => {
           <div className="space-y-6">
             <div className="about-fade space-y-4 text-muted-foreground leading-relaxed">
               <p>
-                Technical Lead & Full Stack Developer with <span className="text-primary font-mono">10+ Years IT Experience</span>{" "}
-                and <span className="text-primary font-mono">5+ Years Building Scalable Web Apps</span> with React, Next.js, Node.js, Express & AWS.
+                Technical Lead & Full Stack Developer with <span className="text-primary font-mono">6+ Years Building Scalable Web Apps</span> with React, Next.js, Node.js, Express & AWS.
               </p>
               <p>
                 I currently lead a cross-functional team of <span className="text-foreground font-medium">5+ engineers</span> at

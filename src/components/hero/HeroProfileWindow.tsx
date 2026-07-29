@@ -96,7 +96,7 @@ const HeroProfileWindow = () => {
             </div>
             <div>
               <span className="text-keyword"> const</span> <span className="text-foreground">years</span> ={" "}
-              <span className="text-number">5</span>;
+              <span className="text-number">6</span>;
             </div>
             <div>
               <span className="text-keyword"> return</span>{" "}
