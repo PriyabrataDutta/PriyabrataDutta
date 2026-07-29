@@ -26,10 +26,10 @@ import CodeWindow from "@/components/CodeWindow";
 // Stat tiles shown in the bottom-right of the section.
 // `value` is the final number; `data-target` on the DOM drives the count-up.
 const stats = [
-  { value: 10, suffix: "+", label: "years_in_IT" },
-  { value: 100, suffix: "+", label: "projects_shipped" },
+  { value: 6, suffix: "+", label: "years_experience" },
+  { value: 120, suffix: "+", label: "projects_shipped" },
   { value: 5, suffix: "+", label: "engineers_led" },
-  { value: 15, suffix: "+", label: "active_clients" },
+  { value: 50, suffix: "k+", label: "monthly_active_users" },
 ];
 
 const About = () => {
