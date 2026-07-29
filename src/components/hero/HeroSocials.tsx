@@ -53,7 +53,7 @@ const HeroSocials = () => {
       {/* Social links row */}
       <div className="hero-fade flex gap-5 font-mono text-sm pt-2 justify-center lg:justify-start flex-wrap">
         <a
-          href="mailto:priyabrata.dutta369@gmail.com"
+          href="mailto:priyabrata.dutta.slg@gmail.com"
           className="text-muted-foreground hover:text-primary transition-colors flex items-center gap-2"
         >
           <Mail className="w-4 h-4" /> email

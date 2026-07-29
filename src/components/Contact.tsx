@@ -157,23 +157,17 @@ const Contact = () => {
                 {/* Each contact line is a clickable link (mailto / tel / external).
                     `min-w-0` + `break-all` on the value lets long emails wrap
                     instead of forcing horizontal overflow on small screens. */}
-                <a href="mailto:priyabrata.dutta369@gmail.com" className="pl-4 flex items-start gap-2 hover:text-primary transition-colors group min-w-0">
+                <a href="mailto:priyabrata.dutta.slg@gmail.com" className="pl-4 flex items-start gap-2 hover:text-primary transition-colors group min-w-0">
                   <Mail className="w-3.5 h-3.5 text-primary shrink-0 mt-1" />
                   <span className="text-property shrink-0">email</span>
                   <span className="text-foreground shrink-0">:</span>
-                  <span className="text-string group-hover:underline break-all min-w-0">'priyabrata.dutta369@gmail.com'</span>
+                  <span className="text-string group-hover:underline break-all min-w-0">'priyabrata.dutta.slg@gmail.com'</span>
                 </a>
                 <a href="tel:+919832465858" className="pl-4 flex items-start gap-2 hover:text-primary transition-colors group min-w-0">
                   <Phone className="w-3.5 h-3.5 text-primary shrink-0 mt-1" />
                   <span className="text-property shrink-0">phone</span>
                   <span className="text-foreground shrink-0">:</span>
                   <span className="text-string group-hover:underline break-all min-w-0">'+91 98324 65858'</span>
-                </a>
-                <a href="tel:+919239265858" className="pl-4 flex items-start gap-2 hover:text-primary transition-colors group min-w-0">
-                  <Phone className="w-3.5 h-3.5 text-primary shrink-0 mt-1" />
-                  <span className="text-property shrink-0">phone2</span>
-                  <span className="text-foreground shrink-0">:</span>
-                  <span className="text-string group-hover:underline break-all min-w-0">'+91 92392 65858'</span>
                 </a>
                 <a
                   href="https://wa.me/919832465858?text=Hi%20Priyabrata%2C%20I%20came%20across%20your%20portfolio%20and%20would%20love%20to%20connect."
