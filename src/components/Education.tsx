@@ -41,7 +41,7 @@ const Education = () => {
         <div className="grid lg:grid-cols-2 gap-8 max-w-5xl mx-auto items-stretch">
           {/* === LEFT: education.json (degrees) === */}
           <div className="edu-card flex">
-            <CodeWindow filename="education.json" language="json" showLineNumbers lineCount={15} className="flex-1 flex flex-col">
+            <CodeWindow filename="education.json" language="json" showLineNumbers lineCount={20} className="flex-1 flex flex-col">
               <div className="space-y-1 text-xs md:text-sm leading-6 h-full flex flex-col justify-center">
                 <div>{`{`}</div>
                 <div className="pl-4"><span className="text-property">"degrees"</span>: [</div>
@@ -64,9 +64,15 @@ const Education = () => {
 
           {/* === RIGHT: certifications.json === */}
           <div className="edu-card flex">
-            <CodeWindow filename="certifications.json" language="json" showLineNumbers lineCount={15} className="flex-1 flex flex-col">
+            <CodeWindow filename="certifications.json" language="json" showLineNumbers lineCount={20} className="flex-1 flex flex-col">
               <div className="space-y-1 text-xs md:text-sm leading-6 h-full flex flex-col justify-center">
                 <div>{`[`}</div>
+                <div className="pl-4">{`{`}</div>
+                <div className="pl-8"><span className="text-property">"name"</span>: <span className="text-string">"AWS Certified Solutions Architect - Associate"</span>,</div>
+                <div className="pl-8"><span className="text-property">"by"</span>: <span className="text-string">"Amazon Web Services"</span>,</div>
+                <div className="pl-8"><span className="text-property">"badge"</span>: <a href="https://www.credly.com/badges/7acfdc50-ba8c-4f60-afba-26c9694e8951/public_url" target="_blank" rel="noopener noreferrer" className="text-string underline hover:text-primary transition-colors">"credly.com/badges/aws-csa"</a>,</div>
+                <div className="pl-8"><span className="text-property">"year"</span>: <span className="text-number">2026</span></div>
+                <div className="pl-4">{`}`},</div>
                 <div className="pl-4">{`{`}</div>
                 <div className="pl-8"><span className="text-property">"name"</span>: <span className="text-string">"Full Stack Dev & Product Eng."</span>,</div>
                 <div className="pl-8"><span className="text-property">"by"</span>: <span className="text-string">"PESTO"</span>,</div>
