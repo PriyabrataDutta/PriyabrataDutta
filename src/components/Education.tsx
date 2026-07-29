@@ -50,11 +50,6 @@ const Education = () => {
                 <div className="pl-12"><span className="text-property">"institute"</span>: <span className="text-string">"Siliguri Institute of Technology"</span>,</div>
                 <div className="pl-12"><span className="text-property">"year"</span>: <span className="text-number">2022</span>,</div>
                 <div className="pl-12"><span className="text-property">"focus"</span>: <span className="text-string">"Software Eng. + Cloud"</span></div>
-                <div className="pl-8">{`}`},</div>
-                <div className="pl-8">{`{`}</div>
-                <div className="pl-12"><span className="text-property">"degree"</span>: <span className="text-string">"BCA"</span>,</div>
-                <div className="pl-12"><span className="text-property">"institute"</span>: <span className="text-string">"Sikkim Manipal University"</span>,</div>
-                <div className="pl-12"><span className="text-property">"year"</span>: <span className="text-number">2011</span></div>
                 <div className="pl-8">{`}`}</div>
                 <div className="pl-4">]</div>
                 <div>{`}`}</div>
