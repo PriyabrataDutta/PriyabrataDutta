@@ -41,7 +41,7 @@ const Education = () => {
         <div className="grid lg:grid-cols-2 gap-8 max-w-5xl mx-auto items-stretch">
           {/* === LEFT: education.json (degrees) === */}
           <div className="edu-card flex">
-            <CodeWindow filename="education.json" language="json" showLineNumbers lineCount={20} className="flex-1 flex flex-col">
+            <CodeWindow filename="education.json" language="json" showLineNumbers lineCount={18} className="flex-1 flex flex-col">
               <div className="space-y-1 text-xs md:text-sm leading-6 h-full flex flex-col justify-center">
                 <div>{`{`}</div>
                 <div className="pl-4"><span className="text-property">"degrees"</span>: [</div>
@@ -64,7 +64,7 @@ const Education = () => {
 
           {/* === RIGHT: certifications.json === */}
           <div className="edu-card flex">
-            <CodeWindow filename="certifications.json" language="json" showLineNumbers lineCount={20} className="flex-1 flex flex-col">
+            <CodeWindow filename="certifications.json" language="json" showLineNumbers lineCount={18} className="flex-1 flex flex-col">
               <div className="space-y-1 text-xs md:text-sm leading-6 h-full flex flex-col justify-center">
                 <div>{`[`}</div>
                 <div className="pl-4">{`{`}</div>
@@ -83,10 +83,6 @@ const Education = () => {
                 <div className="pl-8"><span className="text-property">"by"</span>: <span className="text-string">"IIT Kharagpur"</span>,</div>
                 <div className="pl-8"><span className="text-property">"score"</span>: <span className="text-string">"69%"</span>,</div>
                 <div className="pl-8"><span className="text-property">"year"</span>: <span className="text-number">2022</span></div>
-                <div className="pl-4">{`}`},</div>
-                <div className="pl-4">{`{`}</div>
-                <div className="pl-8"><span className="text-property">"name"</span>: <span className="text-string">"AWS Cloud Developer Associate"</span>,</div>
-                <div className="pl-8"><span className="text-property">"status"</span>: <span className="text-comment">"// in progress"</span></div>
                 <div className="pl-4">{`}`}</div>
                 <div>{`]`}</div>
               </div>
