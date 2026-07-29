@@ -129,7 +129,7 @@
 ---
 
 ### 🔵 Freelance Full Stack Developer — *GraphicxIT, Siliguri*
-`2021 – 2022` · **4 countries** · **20+ projects** · **Solo delivery**
+`2020 – 2022` · **4 countries** · **20+ projects** · **Solo delivery**
 
 > End-to-end product engineering for international clients — from requirements gathering to production deployment, owning every technical decision solo.
 
@@ -143,7 +143,7 @@
 ---
 
 ### 🟡 Technical Resource / Web Developer — *Uttarbanga Sambad, Siliguri*
-`2019 – 2021` · **20-member team** · **100K+ readers** · **News media at scale**
+`2019 – 2020` · **20-member team** · **100K+ readers** · **News media at scale**
 
 > Digital infrastructure powering one of North Bengal's largest news organizations — combining full-stack development, team leadership, and real-time content delivery at scale.
 
@@ -154,20 +154,6 @@
 - 📺 Built technical infrastructure for **Facebook Live** broadcasts reaching **10K+ concurrent viewers** — set up encoding, streaming pipeline, and automated archival workflow
 - 💰 Launched **ad monetization platform** (Google AdSense + direct ad placements) generating **₹2L+/month** in digital advertising revenue — a new revenue stream that didn't exist before the digital transformation
 - 📱 Implemented **responsive redesign** that increased mobile traffic share from **45% → 72%**, matching the shift in how North Bengal readers consume news
-
----
-
-### 🟠 Technical Assistant / Web Developer — *SIEM, Siliguri*
-`2010 – 2019` · **9 years** · **500+ students/year** · **Academic + Digital**
-
-> Dual role combining academic program delivery with institutional digital transformation — the foundation for my engineering leadership.
-
-- 👨‍🏫 Conducted programming labs for **500+ students annually** across **9 academic years** in C, C++, Java, VB.NET, and Data Structures & Algorithms — consistently rated among top instructors by student feedback surveys
-- 📈 Designed and executed a **data-driven admission promotion strategy** — achieved **10% increase in inquiry leads** and **6% rise in confirmed admissions** (2015–16), contributing to **₹15L+ additional institutional revenue**
-- 🌐 Built the college website from scratch and managed digital marketing campaigns (Google Ads + Facebook) driving **5K+ monthly visitors** — transformed the website from a static brochure into the **#1 admission inquiry channel**, generating **40%+ of all new student inquiries**
-- 🎓 Supervised **50+ final-year student projects** across software design, web development, and database management — mentored students on architecture decisions, code quality, and project presentation skills
-- 🔐 Implemented centralized **data management and security infrastructure** across **3 computer labs (60+ machines)** — standardized system images, automated backup schedules, and network security policies that reduced system downtime by **70%**
-- 📢 Organized and delivered **10+ technical workshops** on emerging web technologies for students and faculty — introduced the department to modern frameworks (React, Node.js) that were later adopted into the curriculum
 
 ## 🏗️ Key Projects
 
